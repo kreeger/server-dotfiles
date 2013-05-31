@@ -23,5 +23,5 @@ source $BASH_IT/bash_it.sh
 
 alias agi='apt-get install'
 alias agud='apt-get update'
-aliad agug='apt-get upgrade'
+alias agug='apt-get upgrade'
 alias acs='apt-cache search'
